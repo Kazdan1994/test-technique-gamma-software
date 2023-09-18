@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = backend
+	url = git@github.com:Kazdan1994/test-technique-gamma-software-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Kazdan1994/test-technique-gamma-software-backend.git
